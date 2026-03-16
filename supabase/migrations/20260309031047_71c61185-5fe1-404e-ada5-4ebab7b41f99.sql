@@ -1,0 +1,1 @@
+ALTER TABLE public.transport_requests ADD COLUMN preferred_time text DEFAULT NULL;
